@@ -1,0 +1,26 @@
+{
+  "name": "GroCare - Personal Life OS",
+  "short_name": "GroCare",
+  "description": "Health, diet, exercise, and wellness management platform",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"],
+  "lang": "en-US"
+}
